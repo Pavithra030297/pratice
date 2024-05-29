@@ -3,7 +3,15 @@ package org.base;
 public class PayLoad {
 	
 	
+	private void api() {
+		System.out.println("bnbbn");
+
+	}
+	
 	public static String addplace() {
+		
+		
+		
 		
 		String s="{\r\n" + 
 				"  \"location\": {\r\n" + 

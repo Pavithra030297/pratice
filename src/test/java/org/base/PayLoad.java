@@ -1,9 +1,13 @@
 package org.base;
 //to store request body  
 public class PayLoad {
-	
+	private void hit() {
+		System.out.println("kkkkk");
+
+	}
 	
 	public static String addplace() {
+		
 		
 		String s="{\r\n" + 
 				"  \"location\": {\r\n" + 
